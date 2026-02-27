@@ -10,7 +10,7 @@ export const siteConfig: SiteConfig = {
 	title: "SEV7N",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "生活小记",
 
 	// 站点 URL
 	site_url: "https://firefly.cuteleaf.cn",
@@ -22,9 +22,7 @@ export const siteConfig: SiteConfig = {
 	// 站点关键词
 	keywords: [
 		"Firefly",
-		"Fuwari",
 		"Astro",
-		"ACGN",
 		"博客",
 		"技术博客",
 		"静态博客",
@@ -129,7 +127,7 @@ export const siteConfig: SiteConfig = {
 	},
 
 	// 分类导航栏开关，在首页和归档页顶部显示分类快捷导航
-	categoryBar: true,
+	categoryBar: false,
 
 	// 文章列表布局配置
 	postListLayout: {
@@ -140,7 +138,7 @@ export const siteConfig: SiteConfig = {
 		// 网格布局配置，仅在 defaultMode 为 "grid" 或允许切换布局时生效
 		grid: {
 			// 是否开启瀑布流布局，同时有封面图和无封面图的混合文章推荐开启
-			masonry: false,
+			masonry: true,
 			// 网格模式卡片最小宽度(px)，浏览器根据容器宽度自动计算列数，默认 280
 			columnWidth: 320,
 		},
@@ -170,7 +168,7 @@ export const siteConfig: SiteConfig = {
 		// - "avif": 仅输出 AVIF 格式（最新技术，最小体积，目前兼容性较低）
 		// - "webp": 仅输出 WebP 格式（体积适中，兼容性好）
 		// - "both": 同时输出 AVIF 和 WebP（推荐，浏览器自动选择最佳格式）
-		formats: "webp",
+		formats: "avif",
 		// 图片压缩质量 (1-100)，值越低体积越小但质量越差，推荐 70-85
 		quality: 85,
 		// 为特定域名的图片添加 referrerpolicy="no-referrer" 属性
