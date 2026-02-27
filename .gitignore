@@ -38,4 +38,5 @@ cache/
 package/
 .obsidian/
 .skills
-src\content\posts\pending
+.pending
+*.log
