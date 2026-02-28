@@ -66,8 +66,8 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"https://uapis.cn/api/v1/saying",
-				"https://uapis.cn/api/v1/saying",
+				"有思念你的人在的地方,就是你的归处。",
+				"白天不紧张，夜晚不惆怅，算奢侈还是寻常。",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
