@@ -38,5 +38,6 @@ cache/
 package/
 .obsidian/
 .skills
-.pending
+pending/
+draft/
 *.log
