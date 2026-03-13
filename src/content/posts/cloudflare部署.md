@@ -8,6 +8,8 @@ draft: false
 language: zh-CN
 ---
 
+> 参考：https://eastondev.com/blog/zh/posts/dev/20251203-astro-cloudflare-deploy/
+
 # Astro Cloudflare 部署完整流程
 
 静态站点部署：5分钟快速上手

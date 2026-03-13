@@ -68,6 +68,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			subtitle: [
 				"有思念你的人在的地方,就是你的归处。",
 				"白天不紧张，夜晚不惆怅，算奢侈还是寻常。",
+				"不必太纠结于当下，也不必太忧虑未来，人生没有无用的经历，当你经历一些事情后，眼前的风景已经和以前不一样了",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
@@ -94,9 +95,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			},
 			text: {
 				// 桌面端要显示的来源文本
-				desktop: "Pixiv - 晚晚喵",
+				desktop: "诗雯",
 				// 移动端要显示的来源文本
-				mobile: "Pixiv - KiraraShss",
+				mobile: "诗雯",
 			},
 			url: {
 				// 桌面端原始艺术品或艺术家页面的 URL 链接

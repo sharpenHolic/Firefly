@@ -19,7 +19,7 @@ export const friendsConfig: FriendLink[] = [
 	{
 		title: "路漫漫",
 		imgurl: "https://q1.qlogo.cn/g?b=qq&nk=7618557&s=640",
-		desc: "飞萤之火自无梦的长夜亮起，绽放在终竟的明天。",
+		desc: "不必太纠结于当下，也不必太忧虑未来，人生没有无用的经历，当你经历一些事情后，眼前的风景已经和以前不一样了",
 		siteurl: "https://sharpenholic.github.io/",
 		tags: ["Blog"],
 		weight: 10, // 权重，数字越大排序越靠前
